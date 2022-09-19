@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mitml",
+    "oncran": true
+  }
+]
